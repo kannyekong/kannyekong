@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kannyekong
-- 👀 I’m interested in front end web Dev 
+- 👀 I’m interested in FrontEnd web Dev 
 - 🌱 I’m currently learning react JS
 - 💞️ I’m looking to collaborate on front end web projects 
 - 📫 How to reach me "housetop13@gmail.com"
